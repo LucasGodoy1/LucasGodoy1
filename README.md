@@ -27,5 +27,5 @@ Sistemas Operacionais:  <br>
   <a href="https://instagram.com/eu.lucas_26?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![Lucas Godoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGodoy1&show_icons=true&theme=dark)
+![Lucas Godoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGodoy1&show_icons=true&theme=radical)
 
