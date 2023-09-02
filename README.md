@@ -12,7 +12,9 @@ Desenvolvedor Full Stack - Udemy <br>
 👾 Cyber Security <br>
 ☕ Java <br>
 🐍 Python <br>
-Sistemas Operacionais:  <br>
+#### 🛠️ Ferramentas:  <br>
+🌔 Eclipse <br>
+🆚 Vs Code <br>
 🪟 Windows <br>
 🐧 Linux <br>
 ## Estudando no momento
