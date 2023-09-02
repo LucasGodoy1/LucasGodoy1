@@ -29,4 +29,3 @@ Sistemas Operacionais:  <br>
 </div>
 
 ![Lucas Godoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGodoy1&show_icons=true&theme=radical)
-
