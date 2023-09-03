@@ -1,4 +1,4 @@
-### Oi, eu sou o Lucas Godoy
+=### Oi, eu sou o Lucas Godoy
 ### 📚👨‍🎓 Cursos em Progresso  <br> 
 Sistema de Informação - Universidade Anhembi Morumbi <br>
 Desenvolvedor Back end - Digital Innovation One <br>
@@ -10,7 +10,7 @@ Desenvolvedor Full Stack - Udemy <br>
 
 ## Conhecimentos em
 👾 Cyber Security <br>
-☕ Java <br>
+☕ Java POO <br>
 🐍 Python <br>
 #### 🛠️ Ferramentas:  <br>
 🌔 Eclipse <br>
