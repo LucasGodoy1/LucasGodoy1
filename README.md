@@ -1,4 +1,4 @@
-=### Oi, eu sou o Lucas Godoy
+### Oi, eu sou o Lucas Godoy
 ### 📚👨‍🎓 Cursos em Progresso  <br> 
 Sistema de Informação - Universidade Anhembi Morumbi <br>
 Desenvolvedor Back end - Digital Innovation One <br>
