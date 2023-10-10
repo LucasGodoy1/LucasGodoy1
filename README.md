@@ -11,6 +11,7 @@ Desenvolvedor Full Stack - Udemy <br>
 ## Conhecimentos:
 👾 Cyber Security <br>
 ☕ Java POO <br>
+🐬MySQL <br>
 🐍 Python <br>
 #### 🛠️ Ferramentas:  <br>
 🌔 Eclipse <br>
