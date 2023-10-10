@@ -6,7 +6,7 @@ Desenvolvedor Full Stack - Udemy <br>
 
 ## Objetivos 
 
-👨‍💻 Desenvolvedor de Software <br> <br>
+👨‍💻 Desenvolvedor de Sistemas <br> <br>
 
 ## Conhecimentos:
 👾 Cyber Security <br>
