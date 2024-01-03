@@ -16,7 +16,7 @@ Desenvolvedor Full Stack - Udemy <br>
 #### 🛠️ Ferramentas:  <br>
 🌔 Eclipse <br>
 🆚 Vs Code <br>
-🪟 Windows <br>
+🪟  Windows <br>
 🐧 Linux <br>
 🟧 Postman <br>
 🔳 Json <br>
