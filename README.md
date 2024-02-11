@@ -1,6 +1,6 @@
 ### Oi, eu sou o Lucas Godoy
 ### 📚👨‍🎓 Cursos em Progresso  <br> 
-Sistema de Informação - Universidade Anhembi Morumbi <br>
+Engenharia De Software - Centro Universitario Internacional <br>
 Desenvolvedor Back end - Digital Innovation One <br>
 Desenvolvedor Full Stack - Udemy <br>
 
