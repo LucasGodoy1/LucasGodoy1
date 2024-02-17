@@ -15,14 +15,16 @@ Desenvolvedor Full Stack - Udemy <br>
 🐬 MySQL <br>
 #### 🛠️ Ferramentas:  <br>
 🌔 Eclipse <br>
+🔳 Intellij <br>
 🆚 Vs Code <br>
 🪟  Windows <br>
 🐧 Linux <br>
 🟧 Postman <br>
 🔳 Json <br>
+🔛 jpa <br>
 
 ## Estudando no momento
-☕ Java + 🍀 Spring + 🐬MySQL
+☕ Java + 🔛 jpa + 🍀 Spring + 🔛 jpa + 🐬MySQL
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
