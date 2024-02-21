@@ -12,16 +12,18 @@ Desenvolvedor Full Stack - Udemy <br>
 👾 Cyber Security <br>
 🐍 Python <br>
 ☕ Java (POO) (JDBC) <br>
+🍀 Spring <br>
+🔛 JPA <br>
 🐬 MySQL <br>
+🟧 Postman <br>
+🔳 Json <br>
+
 #### 🛠️ Ferramentas:  <br>
 🌔 Eclipse <br>
 🔳 Intellij <br>
 🆚 Vs Code <br>
 🪟  Windows <br>
 🐧 Linux <br>
-🟧 Postman <br>
-🔳 Json <br>
-🔛 JPA <br>
 
 ## Estudando no momento
 ☕ Java + 🍀 Spring + 🔛 JPA + 🐬MySQL
