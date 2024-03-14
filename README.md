@@ -9,7 +9,6 @@ Desenvolvedor Full Stack - Udemy <br>
 👨‍💻 Desenvolvedor de Sistemas <br> <br>
 
 ## Conhecimentos:
-👾 Cyber Security <br>
 🐍 Python <br>
 ☕ Java (POO) (JDBC) <br>
 🍀 Spring <br>
