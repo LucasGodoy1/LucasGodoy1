@@ -6,7 +6,7 @@ Desenvolvedor Back end - Udemy <br>
 
 ## Objetivos 
 
-👨‍💻 Desenvolvedor de Sistemas <br> <br>
+👨‍💻 Software Engineer <br> <br>
 
 ## Conhecimentos:
 🐍 Python <br>
