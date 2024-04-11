@@ -2,7 +2,7 @@
 ### 📚👨‍🎓 Cursos em Progresso  <br> 
 Engenharia De Software - Centro Universitario Internacional <br>
 Desenvolvedor Back end - Digital Innovation One <br>
-Desenvolvedor Full Stack - Udemy <br>
+Desenvolvedor Back end - Udemy <br>
 
 ## Objetivos 
 
