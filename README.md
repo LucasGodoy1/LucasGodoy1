@@ -1,7 +1,7 @@
 ### Oi, eu sou o Lucas Godoy
 ### 📚👨‍🎓 Cursos em Progresso  <br> 
 🚀 Engenharia De Software - Centro Universitario Internacional <br>
-👾 Defesa Cibernética Impacta Tecnologia <br>
+👾 Defesa Cibernética - Impacta Tecnologia <br>
 
 
 ## Objetivos 
