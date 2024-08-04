@@ -1,8 +1,8 @@
 ### Oi, eu sou o Lucas Godoy
 ### 📚👨‍🎓 Cursos em Progresso  <br> 
-Engenharia De Software - Centro Universitario Internacional <br>
-Desenvolvedor Back end - Digital Innovation One <br>
-Desenvolvedor Back end - Udemy <br>
+🚀 Engenharia De Software - Centro Universitario Internacional <br>
+👾 Defesa Cibernética Impacta Tecnologia <br>
+
 
 ## Objetivos 
 
@@ -11,6 +11,7 @@ Desenvolvedor Back end - Udemy <br>
 ## Conhecimentos:
 🐍 Python <br>
 ☕ Java (POO) (JDBC) <br>
+📱 Kotlin <br>
 🍀 Spring <br>
 🔛 JPA <br>
 🐬 MySQL <br>
