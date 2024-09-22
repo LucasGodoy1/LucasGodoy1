@@ -31,7 +31,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Java" height="40" width="45" src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png">
-  <img align="center" alt="Lucas-Springboot" height="35" width="60" src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Spring.component.complex-narrative-xl.ts=1690565631163.png/content/adobe-cms/br/pt/products/instana/supported-technologies/spring-boot-performance-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage">
+  <img align="center" alt="Lucas-Springboot" height="35" width="60" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*ljHUhFnaBissdRBe7DIo6g.png">
   <img align="center" alt="Lucas-MySQL" height="60" width="60" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
          
   ##
