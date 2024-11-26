@@ -32,7 +32,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Java" height="40" width="45" src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png">
-  <img align="center" alt="Lucas-Kotlin" height="55" width="90" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kotlinlang_logo_icon_170356.png">
+  <img align="center" alt="Lucas-Kotlin" height="55" width="95" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kotlinlang_logo_icon_170356.png">
+  <img align="center" alt="Lucas-android" height="40" width="45" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/android_plain_wordmark_logo_icon_146652.png">
   <img align="center" alt="Lucas-Springboot" height="35" width="60" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*ljHUhFnaBissdRBe7DIo6g.png">
   <img align="center" alt="Lucas-MySQL" height="60" width="60" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
          
