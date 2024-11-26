@@ -12,7 +12,7 @@
 🐍 Python <br>
 ☕ Java (POO) (JDBC) <br>
 📱 Kotlin <br>
-🍀 Spring <br>
+🍀 Spring Boot <br>
 🔛 JPA <br>
 🐬 MySQL <br>
 🟧 Postman <br>
@@ -20,6 +20,7 @@
 
 #### 🛠️ Ferramentas:  <br>
 🌔 Eclipse <br>
+📱 Android studio <br>
 🔳 Intellij <br>
 🆚 Vs Code <br>
 🪟  Windows <br>
