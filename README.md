@@ -15,6 +15,8 @@
 🍀 Spring Boot <br>
 🔛 JPA <br>
 🐬 MySQL <br>
+🟠 Oracle <br>
+🪶 SQLite <br>
 🟧 Postman <br>
 🔳 Json <br>
 
